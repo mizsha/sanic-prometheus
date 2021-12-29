@@ -1,6 +1,11 @@
 Changelog
 =========
 
+Version 21.12.0 (on Dec 29 2021)
+------------------------------
+* added sanic 21.12.0 support
+* switch to calver versioning
+
 Version 0.2.1 (on Oct 12 2020)
 ------------------------------
 * Changed the sanic request ctx for __START_TIME__ for the middleware is going to be deprecated, added the newer ctx way for adding custom objects. (by Arvind Mishra)
